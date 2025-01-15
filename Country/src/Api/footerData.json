@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Lahore, Pakistan"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "9876543211"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "fasihulhaq33@gmail.com"
+    }
+]
